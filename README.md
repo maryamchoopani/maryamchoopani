@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maryamchoopani
+- 👋 Hi, I’m @maryamchoopani .I am 32 years old but i start now...
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning android develop with java
+- 🌱 I’m currently learning android develop with java, web developing with html,css,javascript,php ,then i like learn flutter and python
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me mchoopani21@gmail.com
 
